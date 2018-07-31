@@ -1,0 +1,16 @@
+
+<div *ngIf="selectedBook.selected">
+    <h1>{{selectedBook.selected.volumeInfo.title}}</h1>
+
+    <p> authors: {{selectedBook.selected.volumeInfo.authors}}</p>
+    <p> publishedDate: {{selectedBook.selected.volumeInfo.publishedDate}}</p>
+    <p> description: {{selectedBook.selected.volumeInfo.description}}</p>
+    <p> pageCount: {{selectedBook.selected.volumeInfo.pageCount}}</p>
+    <p> language {{selectedBook.selected.volumeInfo.language}}</p>
+    <p> subtitle {{selectedBook.selected.volumeInfo.subtitle}}</p>
+
+    <img [src]="selectedBook.selected.volumeInfo.imageLinks.thumbnail"/>
+
+
+
+</div>

@@ -1,0 +1,9 @@
+C:\Users\Danino\source\repos\project 4\project_3\bin\Debug\SearchDb.mdf
+C:\Users\Danino\source\repos\project 4\project_3\bin\Debug\SearchDb_log.ldf
+C:\Users\Danino\source\repos\project 4\project_3\bin\Debug\project_3.exe.config
+C:\Users\Danino\source\repos\project 4\project_3\bin\Debug\project_3.exe
+C:\Users\Danino\source\repos\project 4\project_3\bin\Debug\project_3.pdb
+C:\Users\Danino\source\repos\project 4\project_3\obj\Debug\project_3.csproj.CoreCompileInputs.cache
+C:\Users\Danino\source\repos\project 4\project_3\obj\Debug\project_3.exe
+C:\Users\Danino\source\repos\project 4\project_3\obj\Debug\project_3.pdb
+C:\Users\Danino\source\repos\project 4\project_3\obj\Debug\project_3.csprojAssemblyReference.cache

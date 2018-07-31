@@ -1,0 +1,8 @@
+C:\Users\Danino\source\repos\project_3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Danino\source\repos\project_3\DAL\bin\Debug\SearchDbNew.mdf
+C:\Users\Danino\source\repos\project_3\DAL\bin\Debug\SearchDbNew_log.ldf
+C:\Users\Danino\source\repos\project_3\DAL\bin\Debug\DAL.exe.config
+C:\Users\Danino\source\repos\project_3\DAL\bin\Debug\DAL.exe
+C:\Users\Danino\source\repos\project_3\DAL\bin\Debug\DAL.pdb
+C:\Users\Danino\source\repos\project_3\DAL\obj\Debug\DAL.exe
+C:\Users\Danino\source\repos\project_3\DAL\obj\Debug\DAL.pdb

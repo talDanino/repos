@@ -1,0 +1,13 @@
+c:\users\danino\source\repos\searchFiles-pro\BLL\bin\Debug\SearchDb.mdf
+c:\users\danino\source\repos\searchFiles-pro\BLL\bin\Debug\SearchDb_log.ldf
+c:\users\danino\source\repos\searchFiles-pro\BLL\bin\Debug\BLL.exe.config
+c:\users\danino\source\repos\searchFiles-pro\BLL\bin\Debug\BLL.exe
+c:\users\danino\source\repos\searchFiles-pro\BLL\bin\Debug\BLL.pdb
+c:\users\danino\source\repos\searchFiles-pro\BLL\bin\Debug\DAL.exe
+c:\users\danino\source\repos\searchFiles-pro\BLL\bin\Debug\DAL.pdb
+c:\users\danino\source\repos\searchFiles-pro\BLL\bin\Debug\DAL.exe.config
+c:\users\danino\source\repos\searchFiles-pro\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+c:\users\danino\source\repos\searchFiles-pro\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+c:\users\danino\source\repos\searchFiles-pro\BLL\obj\Debug\BLL.csproj.CopyComplete
+c:\users\danino\source\repos\searchFiles-pro\BLL\obj\Debug\BLL.exe
+c:\users\danino\source\repos\searchFiles-pro\BLL\obj\Debug\BLL.pdb

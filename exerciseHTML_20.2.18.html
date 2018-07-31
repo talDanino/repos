@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <script>
+        function changeFunc() {
+
+            let elementP1 = document.getElementById("p1");
+
+            elementP1.innerText = document.getElementById("text1").value;
+            elementP1.style.fontSize = document.getElementById("size1").value + "em";
+            elementP1.style.color = document.getElementById("color1").value;
+
+        }
+    </script>
+
+</head>
+<body>
+
+    <input id="size1" type="number" />
+    <input id="color1" type="color" />
+    <input id="text1" type="text" value="enter text" />
+
+    <br/>
+    <button onclick="changeFunc()"> change! </button>
+
+    <p id="p1"> well done </p>
+
+</body>
+</html>

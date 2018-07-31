@@ -1,0 +1,16 @@
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\bin\Debug\SearchDb.mdf
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\bin\Debug\SearchDb_log.ldf
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\bin\Debug\searchFiles-pro.exe.config
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\bin\Debug\searchFiles-pro.exe
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\bin\Debug\searchFiles-pro.pdb
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\bin\Debug\BLL.exe
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\bin\Debug\DAL.exe
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\bin\Debug\BLL.pdb
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\bin\Debug\BLL.exe.config
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\bin\Debug\DAL.pdb
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\bin\Debug\DAL.exe.config
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\obj\Debug\searchFiles-pro.csprojAssemblyReference.cache
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\obj\Debug\searchFiles-pro.csproj.CoreCompileInputs.cache
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\obj\Debug\searchFiles-pro.csproj.CopyComplete
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\obj\Debug\searchFiles-pro.exe
+c:\users\danino\source\repos\searchFiles-pro\searchFiles-pro\obj\Debug\searchFiles-pro.pdb

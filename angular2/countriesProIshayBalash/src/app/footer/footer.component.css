@@ -1,0 +1,15 @@
+.bg-4{
+    background-color: blue
+}
+.container-fluid{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    bottom: 100%
+}
+footer{
+    height: 100px;
+}
+
+div{
+    bottom: 100%;
+}

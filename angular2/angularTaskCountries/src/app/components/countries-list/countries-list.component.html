@@ -1,0 +1,25 @@
+
+<input type="text" [(ngModel)]="userInput" placeholder="Search for name...">
+
+
+<table id="myTable" border="1">
+
+    <tr class="header">
+        <th> Country Name </th>
+        <th> Native Name </th>
+        <th> Capital </th>
+        <th> Population </th>
+        <th> Flag </th>
+    </tr>
+
+    <tr *ngFor="let c of countries">
+        <td *ngIf="c.name.indexOf(user_input)>=0 || c.capital.indexOf(user_input)>=0"> {{c.name}} </td>
+        <td *ngIf="c.name.indexOf(user_input)>=0 || c.capital.indexOf(user_input)>=0"> {{c.nativeName}} </td>
+        <td *ngIf="c.name.indexOf(user_input)>=0 || c.capital.indexOf(user_input)>=0"> {{c.capital}} </td>
+        <td *ngIf="c.name.indexOf(user_input)>=0 || c.capital.indexOf(user_input)>=0"> {{c.population}} </td>
+        <td  *ngIf="c.name.indexOf(user_input)>=0 || c.capital.indexOf(user_input)>=0"> 
+            <img [src]="c.flag">
+        </td>
+
+    </tr>
+</table>

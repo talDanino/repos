@@ -1,0 +1,17 @@
+<h3> current pizza orders: </h3>
+
+<table id="pizzas" border="1" align="center">
+    <tr>
+        <th>Diameter</th>
+        <th>Slices</th>
+        <th>Toppings</th>
+        <th>Price</th>
+    </tr>
+       
+    <tr *ngFor="let p of pizzas">
+        <td> {{p.Diameter}} </td>
+        <td> {{p.Slices}} </td>
+        <td> {{p.Toppings}} </td>
+        <td> {{p.Price}} </td>
+    </tr>
+</table>

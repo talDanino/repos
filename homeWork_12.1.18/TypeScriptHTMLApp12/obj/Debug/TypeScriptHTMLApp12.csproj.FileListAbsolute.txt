@@ -1,0 +1,6 @@
+c:\users\danino\source\repos\TypeScriptHTMLApp12\TypeScriptHTMLApp12\bin\TypeScriptHTMLApp1.dll.config
+c:\users\danino\source\repos\TypeScriptHTMLApp12\TypeScriptHTMLApp12\bin\TypeScriptHTMLApp1.dll
+c:\users\danino\source\repos\TypeScriptHTMLApp12\TypeScriptHTMLApp12\bin\TypeScriptHTMLApp1.pdb
+c:\users\danino\source\repos\TypeScriptHTMLApp12\TypeScriptHTMLApp12\obj\Debug\TypeScriptHTMLApp12.csproj.CoreCompileInputs.cache
+c:\users\danino\source\repos\TypeScriptHTMLApp12\TypeScriptHTMLApp12\obj\Debug\TypeScriptHTMLApp1.dll
+c:\users\danino\source\repos\TypeScriptHTMLApp12\TypeScriptHTMLApp12\obj\Debug\TypeScriptHTMLApp1.pdb

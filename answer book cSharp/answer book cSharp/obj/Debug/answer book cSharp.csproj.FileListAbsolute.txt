@@ -1,0 +1,7 @@
+C:\Users\Danino\source\repos\answer book cSharp\answer book cSharp\bin\Debug\answer book cSharp.exe.config
+C:\Users\Danino\source\repos\answer book cSharp\answer book cSharp\bin\Debug\answer book cSharp.exe
+C:\Users\Danino\source\repos\answer book cSharp\answer book cSharp\bin\Debug\answer book cSharp.pdb
+C:\Users\Danino\source\repos\answer book cSharp\answer book cSharp\obj\Debug\answer book cSharp.csprojAssemblyReference.cache
+C:\Users\Danino\source\repos\answer book cSharp\answer book cSharp\obj\Debug\answer book cSharp.csproj.CoreCompileInputs.cache
+C:\Users\Danino\source\repos\answer book cSharp\answer book cSharp\obj\Debug\answer book cSharp.exe
+C:\Users\Danino\source\repos\answer book cSharp\answer book cSharp\obj\Debug\answer book cSharp.pdb

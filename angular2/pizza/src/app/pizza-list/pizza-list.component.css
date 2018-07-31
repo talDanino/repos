@@ -1,0 +1,15 @@
+table{
+    margin: 30px auto;
+}
+
+#pizzas tr:nth-child(even){
+    background-color: #e4e7c3;
+}
+
+tr:first-child{
+    background-color: gainsboro;
+}
+
+h3{
+    text-align: center;
+}

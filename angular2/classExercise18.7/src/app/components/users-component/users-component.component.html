@@ -1,0 +1,20 @@
+<h2> Here are JohnBryce Users: </h2>
+
+<table border="1">
+    <tr>
+        <th>Name</th>
+        <th>UserName</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>City</th>
+    </tr>
+
+    <tr *ngFor="let u of users">
+        <td>{{u.name}}</td>
+        <td>{{u.username}}</td>
+        <td>{{u.email}}</td>
+        <td>{{u.phone}}</td>
+        <td>{{u.address.city}}</td>
+    </tr>
+
+</table>

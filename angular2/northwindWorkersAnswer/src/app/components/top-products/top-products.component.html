@@ -1,0 +1,9 @@
+<app-headline>Top Products</app-headline>
+
+<div *ngFor="let p of products">
+    <h3>Name: {{ p.name }}</h3>
+    <h3>Price: {{ p.price }}</h3>
+    <h3>Stock: {{ p.stock }} Items</h3>
+</div>
+
+<h3>Top Products' Average: {{ average }}</h3>

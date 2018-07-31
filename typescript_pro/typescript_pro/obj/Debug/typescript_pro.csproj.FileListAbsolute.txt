@@ -1,0 +1,6 @@
+c:\users\danino\source\repos\typescript_pro\typescript_pro\bin\TypeScriptHTMLApp1.dll.config
+c:\users\danino\source\repos\typescript_pro\typescript_pro\bin\TypeScriptHTMLApp1.dll
+c:\users\danino\source\repos\typescript_pro\typescript_pro\bin\TypeScriptHTMLApp1.pdb
+c:\users\danino\source\repos\typescript_pro\typescript_pro\obj\Debug\typescript_pro.csproj.CoreCompileInputs.cache
+c:\users\danino\source\repos\typescript_pro\typescript_pro\obj\Debug\TypeScriptHTMLApp1.dll
+c:\users\danino\source\repos\typescript_pro\typescript_pro\obj\Debug\TypeScriptHTMLApp1.pdb

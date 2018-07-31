@@ -1,0 +1,7 @@
+c:\users\danino\source\repos\homeWork_26_01_18\homeWork_26_01_18\bin\TypeScriptHTMLApp1.dll.config
+c:\users\danino\source\repos\homeWork_26_01_18\homeWork_26_01_18\bin\TypeScriptHTMLApp1.dll
+c:\users\danino\source\repos\homeWork_26_01_18\homeWork_26_01_18\bin\TypeScriptHTMLApp1.pdb
+c:\users\danino\source\repos\homeWork_26_01_18\homeWork_26_01_18\obj\Debug\homeWork_26_01_18.csprojResolveAssemblyReference.cache
+c:\users\danino\source\repos\homeWork_26_01_18\homeWork_26_01_18\obj\Debug\homeWork_26_01_18.csproj.CoreCompileInputs.cache
+c:\users\danino\source\repos\homeWork_26_01_18\homeWork_26_01_18\obj\Debug\TypeScriptHTMLApp1.dll
+c:\users\danino\source\repos\homeWork_26_01_18\homeWork_26_01_18\obj\Debug\TypeScriptHTMLApp1.pdb

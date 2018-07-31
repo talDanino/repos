@@ -1,0 +1,12 @@
+C:\Users\Danino\source\repos\classExc26_6_18\classExc26_6_18\bin\Debug\classExc26_6_18.exe.config
+C:\Users\Danino\source\repos\classExc26_6_18\classExc26_6_18\bin\Debug\classExc26_6_18.exe
+C:\Users\Danino\source\repos\classExc26_6_18\classExc26_6_18\bin\Debug\classExc26_6_18.pdb
+C:\Users\Danino\source\repos\classExc26_6_18\classExc26_6_18\bin\Debug\EntityFramework.dll
+C:\Users\Danino\source\repos\classExc26_6_18\classExc26_6_18\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danino\source\repos\classExc26_6_18\classExc26_6_18\bin\Debug\EntityFramework.xml
+C:\Users\Danino\source\repos\classExc26_6_18\classExc26_6_18\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danino\source\repos\classExc26_6_18\classExc26_6_18\obj\Debug\classExc26_6_18.csprojAssemblyReference.cache
+C:\Users\Danino\source\repos\classExc26_6_18\classExc26_6_18\obj\Debug\classExc26_6_18.csproj.CoreCompileInputs.cache
+C:\Users\Danino\source\repos\classExc26_6_18\classExc26_6_18\obj\Debug\classExc26_6_18.csproj.CopyComplete
+C:\Users\Danino\source\repos\classExc26_6_18\classExc26_6_18\obj\Debug\classExc26_6_18.exe
+C:\Users\Danino\source\repos\classExc26_6_18\classExc26_6_18\obj\Debug\classExc26_6_18.pdb

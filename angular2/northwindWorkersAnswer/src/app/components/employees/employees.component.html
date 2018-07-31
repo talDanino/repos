@@ -1,0 +1,27 @@
+<img #preview>
+<table border="1" align="center">
+
+    <tr>
+        <th>Full Name</th>
+        <th>Title</th>
+        <th>Location</th>
+        <th>Birth Date</th>
+        <th>Image</th>
+    </tr>
+
+    <tr *ngFor="let e of employees">
+        <td>{{ e.firstName }} {{ e.lastName }}</td>
+        <td>{{ e.title }}</td>
+        <td>{{ e.city }}, {{ e.country }}</td>
+        <td>
+            <app-date dateStr="{{e.birthDate}}"></app-date>
+        </td>
+        <td>
+            <app-thumbnail 
+            (myClick)="preview.src=$event"
+            source="/assets/images/employees/{{e.firstName+'_'+e.lastName}}.jpg" 
+            side="50"></app-thumbnail>
+        </td>
+    </tr>
+
+</table>

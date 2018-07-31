@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+
+    <table border="1" width="300">
+
+        <!--row #1-->
+        <tr>
+
+            <!--row 1 cell 1-->
+            <td rowspan="10" width="100">test</td>
+
+            <!--row 1 cell 2-->
+            <td width="50">
+                line1 <br /> 
+                line2 
+            </td>
+
+            <!--row 1 cell 3-->
+            <td width="100">
+
+                nested table <br />
+                <!--internal table-->
+                <table border="1">
+                    <tr>
+                        <td>1</td>
+                        <td>2</td>
+                    </tr>
+
+                    <tr>
+                        <td>3</td>
+                        <td>4</td>
+                    </tr>
+                </table>
+
+            </td>
+        </tr>
+
+        <tr>
+
+            <td rowspan="8" colspan="2">
+
+                <ul>
+                    <li> item1 <br /> </li>
+                    <li> item2 <br /> </li>
+                    <li> item3  </li>
+                </ul>
+                
+                <ol style="padding-left:5em">
+                    <li> item3.1  </li>
+                    <li> item3.2  </li>
+                    <li> item3.3  </li>
+                </ol>
+
+                <ul>
+                    <li> item4 <br /> </li>
+                    <li> item5 <br /> </li>
+                </ul>
+
+            </td>
+        </tr>
+
+
+    </table>
+
+
+
+
+
+
+</body>
+</html>

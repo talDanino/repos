@@ -1,0 +1,21 @@
+table {
+    margin: 30px auto;
+}
+
+tr:nth-child(even) {
+    background-color: lightblue;
+}
+
+tr:nth-child(odd) {
+    background-color: lightgreen;
+}
+
+tr:first-child {
+    background-color: lightgray;
+}
+
+img {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}

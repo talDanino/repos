@@ -1,0 +1,7 @@
+c:\users\danino\source\repos\TypeScriptHTMLApp10\TypeScriptHTMLApp10\bin\TypeScriptHTMLApp1.dll.config
+c:\users\danino\source\repos\TypeScriptHTMLApp10\TypeScriptHTMLApp10\bin\TypeScriptHTMLApp1.dll
+c:\users\danino\source\repos\TypeScriptHTMLApp10\TypeScriptHTMLApp10\bin\TypeScriptHTMLApp1.pdb
+c:\users\danino\source\repos\TypeScriptHTMLApp10\TypeScriptHTMLApp10\obj\Debug\TypeScriptHTMLApp10.csproj.CoreCompileInputs.cache
+c:\users\danino\source\repos\TypeScriptHTMLApp10\TypeScriptHTMLApp10\obj\Debug\TypeScriptHTMLApp1.dll
+c:\users\danino\source\repos\TypeScriptHTMLApp10\TypeScriptHTMLApp10\obj\Debug\TypeScriptHTMLApp1.pdb
+c:\users\danino\source\repos\TypeScriptHTMLApp10\TypeScriptHTMLApp10\obj\Debug\TypeScriptHTMLApp10.csprojResolveAssemblyReference.cache

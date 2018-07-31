@@ -1,0 +1,27 @@
+th{
+    color: black
+}
+td{
+    color: black
+}
+
+img{
+    border-radius: 50%;
+    height: 50px;
+    width: 80px;
+
+}
+label{
+    color: black
+}
+input {
+    color: black
+}
+
+div{
+    background-color: aqua;
+}
+
+table{
+    border: 1px solid black
+}

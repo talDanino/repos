@@ -1,0 +1,28 @@
+<div>
+    <label>serch for your country</label>
+    <input type="text"[(ngModel)]="user_text">
+    <hr>
+    <div class="container">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>name</th>
+            <th>native name</th>
+            <th>capital</th>
+            <th>population</th>
+            <th>flag</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let i of LocalUrlInfo.info">
+            <td *ngIf="i.name.indexOf(user_text)>=0 || i.capital.indexOf(user_text)>=0" >{{i.name}}</td>
+            <td *ngIf="i.name.indexOf(user_text)>=0 || i.capital.indexOf(user_text)>=0" >{{i.nativeName}}</td>
+            <td *ngIf="i.name.indexOf(user_text)>=0 || i.capital.indexOf(user_text)>=0" >{{i.capital}}</td>
+            <td *ngIf="i.name.indexOf(user_text)>=0 || i.capital.indexOf(user_text)>=0" >{{i.population}}</td>
+            <td *ngIf="i.name.indexOf(user_text)>=0 || i.capital.indexOf(user_text)>=0">
+              <img [src]="i.flag">
+            </td>
+        </tbody>
+      </table>
+    </div>
+    </div>

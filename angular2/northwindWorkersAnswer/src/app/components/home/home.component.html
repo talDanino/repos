@@ -1,0 +1,41 @@
+<app-headline>Welcome to Northwind Website</app-headline>
+
+<p>Only now, on {{ currentDate | date:'MMMM yyyy' }} - {{ discount }}% discount on all products!</p>
+
+<!-- Property Binding-->
+<img #homeImage src="/assets/images/home.png" [width]="imageWidth">
+
+<div>
+
+    <!-- Event Binding: -->
+    <button (click)="decrease()">&darr;</button>
+    <button (click)="reset()">&harr;</button>
+    <button (click)="increase()">&uarr;</button>
+    <br>
+
+    <!-- Two Way Binding: -->
+    <input type="range" min="100" max="300" step="10" [(ngModel)]="imageWidth">
+    <br>
+
+    <span>Width: {{ homeImage.width }} Pixels</span>
+</div>
+
+<div>
+
+    <h3>Fruits: </h3>
+
+    <!-- Attribute Directive: -->
+    <p ngClass="greenish">Apples</p>
+    <p [ngClass]="bananaStyle">Bananas</p>
+
+    <!-- Structural Directive: -->
+    <p *ngIf="isSummer">Peaches</p>
+
+    <h3>Vegetables: </h3>
+
+    <p *ngFor="let v of vegetables; let i = index">{{ i + 1 }} - {{ v }}</p>
+
+
+</div>
+
+<app-clock></app-clock>
